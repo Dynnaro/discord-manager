@@ -1,0 +1,136 @@
+repo_name: Dynnaro/discord-manager
+report_id: 0bba0ec73c50b6b1fe4e1d2e765b4523
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-05T10:49:45+00:00'
+requested_by: michavie
+provider: github
+branch: main
+detected_tools_count: 10
+tools:
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/Dynnaro/discord-manager
+  detection_source: Repo Metadata
+- name: Guzzle
+  description: PHP HTTP client that makes it easy to send HTTP requests and trivial
+    to integrate with web services
+  website_url: http://guzzlephp.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/2350/638632.png
+  detection_source_url: https://github.com/Dynnaro/discord-manager/blob/main/composer.json
+  detection_source: composer.json
+  last_updated_by: Micha Vie
+  last_updated_on: 2021-01-07 12:51:29.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Dynnaro/discord-manager
+  detection_source: Repo Metadata
+- name: guzzlehttp/guzzle
+  description: Guzzle is a PHP HTTP client library
+  package_url: https://packagist.org/guzzlehttp/guzzle
+  version: 6.5.5
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Dynnaro/discord-manager/blob/main/composer.lock
+  detection_source: composer.json
+  last_updated_by: Micha Vie
+  last_updated_on: 2021-01-07 12:51:29.000000000 Z
+- name: illuminate/database
+  description: The Illuminate Database package
+  package_url: https://packagist.org/illuminate/database
+  version: 8.48.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Dynnaro/discord-manager/blob/main/composer.lock
+  detection_source: composer.json
+  last_updated_by: Micha Vie
+  last_updated_on: 2021-01-07 12:51:29.000000000 Z
+- name: illuminate/http
+  description: The Illuminate Http package
+  package_url: https://packagist.org/illuminate/http
+  version: 8.48.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Dynnaro/discord-manager/blob/main/composer.lock
+  detection_source: composer.json
+  last_updated_by: Micha Vie
+  last_updated_on: 2021-01-07 12:51:29.000000000 Z
+- name: illuminate/log
+  description: The Illuminate Log package
+  package_url: https://packagist.org/illuminate/log
+  version: 8.48.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Dynnaro/discord-manager/blob/main/composer.lock
+  detection_source: composer.json
+  last_updated_by: Micha Vie
+  last_updated_on: 2021-01-07 12:51:29.000000000 Z
+- name: laravel-zero/framework
+  description: The Laravel Zero Framework
+  package_url: https://packagist.org/laravel-zero/framework
+  version: 8.9.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Dynnaro/discord-manager/blob/main/composer.lock
+  detection_source: composer.json
+  last_updated_by: Micha Vie
+  last_updated_on: 2021-03-01 12:06:13.000000000 Z
+- name: mockery/mockery
+  description: Mockery is a simple yet flexible PHP mock object framework
+  package_url: https://packagist.org/mockery/mockery
+  version: 1.4.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Dynnaro/discord-manager/blob/main/composer.lock
+  detection_source: composer.json
+  last_updated_by: Micha Vie
+  last_updated_on: 2021-01-06 17:08:17.000000000 Z
+- name: team-reflex/discord-php
+  description: An unofficial API to interact with the voice and text service Discord
+  package_url: https://packagist.org/team-reflex/discord-php
+  version: 5.1.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/Dynnaro/discord-manager/blob/main/composer.lock
+  detection_source: composer.json
+  last_updated_by: Micha Vie
+  last_updated_on: 2021-01-06 17:08:17.000000000 Z
